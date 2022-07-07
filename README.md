@@ -1,12 +1,5 @@
-# Pug Email Boilerplate
+# Pug Email Boilerplate 
 
-This is a Boilerplate developed by me to create an Email project fron scratch using many UI components created by me using Prepros
+this is an Email (pug) Boilerplate developed by me to develop Email templates with different practices and standarts 
 
-for this i use:
-* ```HTML (pug)```
-* ```CSS (sass)```
-
-Instructions: 
-* ```prepros``` as task runner
-
-
+## gh-pages link: https://kikeestrada.github.io/prepros-boilerplate-email-pug/
