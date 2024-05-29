@@ -1,24 +1,24 @@
 {
 	"name": "prepros-boilerplate-email-pug",
 	"version": "1.0.0",
-	"description": "gh=pages link: https://kikeestrada.github.io/prepros-boilerplate-email-pug",
+	"description": "gh=pages link: https://kikeestradadev.github.io/prepros-boilerplate-email-pug",
 	"main": "index.js",
-	"homepage": "https://kikeestrada.github.io/prepros-boilerplate-email-pug/",
+	"homepage": "https://kikeestradadev.github.io/prepros-boilerplate-email-pug/",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"deploy": "gh-pages -d public"
 	},
 	"dependencies": {
-		"gh-pages": "^2.1.1"
+		"gh-pages": "^6.1.1"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/kikeestrada/prepros-boilerplate-email-pug.git"
+		"url": "git+https://github.com/kikeestradadev/prepros-boilerplate-email-pug.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/kikeestrada/prepros-boilerplate-email-pug/issues"
+		"url": "https://github.com/kikeestradadev/prepros-boilerplate-email-pug/issues"
 	}
 }
